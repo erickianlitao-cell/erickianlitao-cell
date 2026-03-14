@@ -1,7 +1,8 @@
 ## Hi guys! I am Erick Ian Litao
-- 🌱 I’m currently learning on Information Technology
-- Iam Currently studying at New Era University
-- 📫 How to reach me: erickianlitao202@gmail.com
+- I’m currently learning on Information Technology
+- I am Currently studying at New Era University
+- How to reach me: erickianlitao202@gmail.com
+
 
 
 
